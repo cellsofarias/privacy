@@ -88,6 +88,11 @@ button {
     -webkit-backdrop-filter: blur(18px);
 }
 
+.cabecalho.rolado {
+    background: rgba(7, 7, 7, 0.94);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.24);
+}
+
 .cabecalho-conteudo {
     min-height: 82px;
     display: flex;
